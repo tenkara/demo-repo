@@ -1,3 +1,3 @@
 # Intro
 
-Getting started with github
+Getting started with github.
